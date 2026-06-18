@@ -54,8 +54,9 @@ fusion of finance and security, operate at machine speed, and enforce certainty.
 
 ## The hero standard
 
-**Intent. Verified.** The two-word standard for the 2035 economy. If it is not verified by Tenet
-Ground, it is not viable. See [`messaging.md`](messaging.md).
+Our two-word standard is **Intent. Verified.** The full standard — and every other approved line —
+lives in [`messaging.md`](messaging.md).
+
 
 ## What we are / are not
 
