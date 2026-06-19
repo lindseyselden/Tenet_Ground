@@ -55,6 +55,18 @@ compositional logic must make this visually true. Generic security imagery makes
 hero in a command center; Tenet Ground does the opposite — the infrastructure is the hero, the
 Integrity Architect is the precision within it.
 
+## Rule #04 — Typographic Neutrality
+
+**Always specify:** neutral system typefaces, recessive, value read before the face, idiosyncrasy
+reserved for the logotype.
+**Always avoid:** expressive or display faces, decorative letterforms, type as the message, branded
+type outside the logotype.
+
+**Pass/fail test:** If you notice the typeface before you read the value, the type has failed.
+
+**Why:** Infrastructure is recessive — including its type. The system speaks; the typeface doesn't
+perform. The one place idiosyncrasy is permitted is the logotype. The type system itself lives in
+[`visual/typography.md`](visual/typography.md).
 ---
 
 ## Two principles that animate the rules
