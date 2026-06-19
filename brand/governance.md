@@ -2,7 +2,7 @@
 title: Governance Rules
 type: governance
 status: active
-updated: 2026-06-18
+updated: 2026-06-19
 source: original governance document (three operational rules + two principles)
 ---
 
