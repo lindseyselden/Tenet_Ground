@@ -15,16 +15,25 @@ output can be judged against the system. The `image-reviewer` skill runs these t
 
 ## Rule #01 — Technology Presence
 
-**Always specify:** integrated, embedded, recessive, flush-mounted, single surface.
-**Always avoid:** screens, displays, multiple monitors, bezels, LED strips, command center,
-futuristic UI, electronics, cables.
+**Always specify:** integrated, embedded, recessive, flush-mounted, single surface,
+architecture-subordinate; interface surfaces set *into* the architecture; data rendered flat and
+editorial.
+**Always avoid:** floating or free-standing displays, bezels, device chrome, glowing or atmospheric
+screens, command center, multiple monitors, futuristic UI, LED strips, exposed electronics.
+
+**Screens are not forbidden — *performing* technology is.** A status display set flush into a
+concrete wall, its data flat and editorial, passes. A floating glass panel with a glowing radial
+readout fails — not because it is a screen, but because it announces itself.
 
 **Pass/fail test:** If you can identify the technology before you identify the architecture, the
 shot has failed.
 
-**Why:** Tenet Ground is ground truth infrastructure. Infrastructure is recessive by definition. A
-brand that *performs* its technology contradicts its promise of quiet authority. Most security and
-SaaS brands fail this rule by default; Tenet Ground's position depends on holding it.
+**Why:** Tenet Ground is ground truth infrastructure. Infrastructure is recessive by definition, and
+this rule governs how technology *behaves*, not whether interfaces exist. The Architects work — there
+are screens (the Ground Hall elevator type system, status displays). What is forbidden is technology
+that announces itself: the command-center tell, the glowing dashboard, the device that dominates the
+wall it is mounted on. Most security and SaaS brands fail this by default; Tenet Ground's position
+depends on holding it.
 
 ## Rule #02 — Color Behavior
 
