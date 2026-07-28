@@ -55,9 +55,6 @@ idiosyncrasy, earned the right way.
   ground-truth line, the board-formed concrete of the Ground Hall. A debossed mark read by
   raking light is the canonical physical application.
 - **Digital surfaces:** flat single-color, full opacity, no effects.
-- **Optional accent:** a single flat gold hairline (the ground-truth line, see
-  `ground-ring.md`) may sit with the mark — one line, flat, within the limits in `color.md`.
-  Never on the letterforms themselves.
 
 ## Forbidden treatments
 
