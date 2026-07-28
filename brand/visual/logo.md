@@ -37,9 +37,10 @@ idiosyncrasy, earned the right way.
 - **Distinctiveness is structural, never applied.** The mark is distinctive because of how it
   is *drawn*, not how it is *finished*. This is the governing principle; the forbidden list
   below is its consequence.
-- **Color:** flat, single-color. Matte black on light grounds; off-white on dark grounds.
-  Gold only as the brand permits — flat, as matter, never as a finish on the letterforms
-  (see `color.md`).
+- **Color:** flat, single-color, always. **On authored surfaces** — UI, editorial, documents, decks —
+  the mark is Ink `#171717` on light grounds or Paper `#F5F5F5` on dark. **In the rendered world** the
+  mark may be filled flat gold, where gold is a material (see [`color.md`](color.md), Palette A). Flat
+  fill only; gold as a *finish* on the letterforms remains forbidden below.
 
 ## Variants
 
