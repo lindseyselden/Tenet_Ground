@@ -32,7 +32,7 @@ A few terms, plainly:
 | **Understand the brand** (manifesto, voice, look) | Open [`brand/`](brand/README.md) and start with `foundation.md`. |
 | **Generate an on-brand image prompt** | Use the **prompt-architect** skill — see [How to use a skill](#how-to-use-a-skill-step-by-step). |
 | **Write something on-brand** (manifesto, web hero, signage) | Use the **brand-writer** skill. |
-| **Check a generated image against the brand** | Use the **image-reviewer** skill (it runs the three governance rules as pass/fail). |
+| **Check a generated image against the brand** | Use the **image-reviewer** skill (it runs the four governance rules as pass/fail). |
 | **Check a Ground Ring render is on-spec** | Use the **ring-fidelity-checker** skill. |
 | **Get the renders and reference images** | Open the [media library](assets/README.md). |
 
@@ -73,7 +73,7 @@ No coding. If you can copy, paste, and attach a file, you can do this.
 
 **Govern** (check before it ships)
 
-- **image-reviewer** — scores a generated image against the three governance rules. Pass/fail.
+- **image-reviewer** — scores a generated image against the four governance rules. Pass/fail.
 - **copy-reviewer** — scores copy against voice and the anti-territories.
 - **ring-fidelity-checker** — checks a Ground Ring render against the canonical product spec.
 
