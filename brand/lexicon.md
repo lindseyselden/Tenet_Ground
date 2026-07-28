@@ -14,6 +14,48 @@ never explained or hedged.
 
 ## Index of terms
 
+## The five verification signals
+
+The Behavioral Whitelist's "rhythmic pulse," specified. Each signal answers one question about whether
+the world a transaction came from is real. Together they are the axes along which every transaction is
+compared to its counterparty's established baseline.
+
+Each survives the defining test of the category: **a Digital Twin with complete observable behavioral
+history cannot reproduce a passing value.** None is a feature of the transaction; each is a feature of
+the world the transaction came from.
+
+| Domain | Signal | Question |
+| --- | --- | --- |
+| Human | **Ground Pulse** | Is the person real? |
+| Machine | **Execution Field** | Is the environment real? |
+| Organization | **Operating Envelope** | Is the operation real? |
+| Purpose | **Intent Vector** | Is the intent real? |
+| Relationship | **Mutual Ground** | Is the shared context real? |
+
+**Ground Pulse.** The continuously verified physiological state of the certified Integrity Architect
+while operating the platform. *The Ground Ring continuously measures the Ground Pulse, ensuring every
+verified transaction remains anchored to a living human rather than a replicated identity.*
+
+**Execution Field.** The living computational environment in which legitimate intent is produced —
+execution topology, machine behavior, and physical system characteristics. *Every organization
+develops a unique Execution Field. Legitimate transactions emerge from it; imitations merely pass
+through it.*
+
+**Operating Envelope.** The continuously learned boundary within which a counterparty's legitimate
+operations naturally occur. *Behavior expands the Operating Envelope through evidence, never
+assumption. Transactions that leave the envelope are held before settlement.*
+
+**Intent Vector.** The continuously inferred direction of a counterparty's legitimate objectives, as
+expressed through verified commitments over time. *High-Frequency Deception can reproduce history. It
+cannot reproduce the Intent Vector guiding tomorrow's decisions.*
+
+**Mutual Ground.** The body of mutually held, continuously evolving knowledge that exists only between
+legitimate counterparties. *Ground Truth extends beyond observable behavior. Mutual Ground contains
+the private commitments, conversations, and context that only authentic participants possess.*
+
+The signals nest from the body outward, and that nesting is the geometry of the evidence layer. See
+[`visual/marks.md`](visual/marks.md).
+
 **Ground Truth Infrastructure.** The foundational data layer that continuously verifies the provable
 reality of a transaction, independent of what is presented on the surface. *In 2035 you don't trust
 the email or the invoice; you trust the Ground Truth.*
