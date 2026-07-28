@@ -25,7 +25,8 @@ The permitting conditions are explicit:
 - **Transparent substrate.** The architecture behind the plane must read through it. An opaque panel
   is a display; a transparent one is a surface.
 - **Frameless.** No bezel, no housing, no visible mount. The plane appears held rather than installed.
-- **One plane per space.** Two planes are an array, and an array is a command center.
+- **One plane per sightline.** Comparison is a division within the plane — a grid, not a second
+  screen. Repeated adjacent planes read as an array, and an array is a command center.
 - **The plane emits nothing.** Data sits *on* the surface, flat and bounded. The substrate is not a
   light source.
 
