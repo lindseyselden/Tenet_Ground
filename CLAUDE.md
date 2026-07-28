@@ -43,7 +43,7 @@ competence is material and light — which is why the Ground Ring and the Ground
 Grid, type scale, data density, hierarchy and state are not material properties, and no model holds
 them. Prompting for a surface returns a photograph of a surface-shaped object with rendering where
 the design decisions should be. **A model may render a plane; it may not compose what is on it.**
-See `surfaces/README.md`.
+See `surfaces/README.md`. The full argument, and its portability beyond this project, is in [`METHOD.md`](METHOD.md).
 
 **3. Fidelity to the manifesto beats aesthetic distinctiveness.** When a productive drift forces a
 choice, the brand-functional option wins over the more arresting one. Aesthetic preference
