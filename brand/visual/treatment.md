@@ -48,4 +48,4 @@ welcoming, comforting, lifestyle.
 
 The target is the precise middle. These two lists are the *visual* form of the two-sided failure —
 its thesis lives in [`../beliefs.md`](../beliefs.md) ("numbers have nerves") and the copy form in
-[`../voice.md`](../voice.md). A render can satisfy all three governance rules and still fail here.
+[`../voice.md`](../voice.md). A render can satisfy all four governance rules and still fail here.
