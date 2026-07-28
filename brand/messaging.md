@@ -44,4 +44,4 @@ the matching surface spec, then checked by `copy-reviewer`.
 
 ## Boilerplate
 
-> Tenet Ground establishes the Ground
+> Tenet Ground establishes the Ground Truth Infrastructure for autonomous commerce — the foundational layer that verifies behavioral intent in a world where seeing is no longer believing. Where legacy payment security defended against deception after it appeared, Tenet Ground verifies the behavioral ground truth of every transaction before it settles. The platform is operated by Integrity Architects, the fusion role succeeding the CFO and CISO. One system. One intent.
