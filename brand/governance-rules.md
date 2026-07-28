@@ -18,12 +18,16 @@ output can be judged against the system. The `image-reviewer` skill runs these t
 **Always specify:** integrated, embedded, recessive, flush-mounted, single surface,
 architecture-subordinate; interface surfaces set *into* the architecture; data rendered flat and
 editorial.
-**Always avoid:** floating or free-standing displays, bezels, device chrome, glowing or atmospheric
-screens, command center, multiple monitors, futuristic UI, LED strips, exposed electronics.
+**Always avoid:** framed or bezelled displays, opaque panels that occlude the architecture behind them, arrays or multiple displays, device chrome, visible mounting hardware, glowing or atmospheric screens, command center, futuristic UI, LED strips, exposed electronics.
 
-**Screens are not forbidden — *performing* technology is.** A status display set flush into a
-concrete wall, its data flat and editorial, passes. A floating glass panel with a glowing radial
-readout fails — not because it is a screen, but because it announces itself.
+**Screens are not forbidden — *performing* technology is.** A status display set flush into a concrete wall, its data flat and editorial, passes. So does a free-standing plane, provided it meets all four conditions below. A panel with a glowing radial readout fails — not because it floats, but because it announces itself.
+
+A free-standing plane is permitted when it is:
+
+Transparent. The architecture behind it must read through it. An opaque panel is a display; a transparent one is a surface.
+Frameless. No bezel, no housing, no visible mount. Held, not installed.
+Singular in view. One plane per sightline. Comparison happens within the plane — divided by grid, not by adding a second screen. Repeated adjacent planes read as an array, and an array is a command center.
+Non-emissive. Data sits on the surface, flat and bounded. The substrate is not a light source.
 
 **Pass/fail test:** If you can identify the technology before you identify the architecture, the
 shot has failed.
