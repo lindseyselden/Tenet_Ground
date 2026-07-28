@@ -22,12 +22,12 @@ editorial.
 
 **Screens are not forbidden — *performing* technology is.** A status display set flush into a concrete wall, its data flat and editorial, passes. So does a free-standing plane, provided it meets all four conditions below. A panel with a glowing radial readout fails — not because it floats, but because it announces itself.
 
-A free-standing plane is permitted when it is:
+**A free-standing plane is permitted when it is:**
 
-Transparent. The architecture behind it must read through it. An opaque panel is a display; a transparent one is a surface.
-Frameless. No bezel, no housing, no visible mount. Held, not installed.
-Singular in view. One plane per sightline. Comparison happens within the plane — divided by grid, not by adding a second screen. Repeated adjacent planes read as an array, and an array is a command center.
-Non-emissive. Data sits on the surface, flat and bounded. The substrate is not a light source.
+- **Transparent.** The architecture behind it must read through it. An opaque panel is a display; a transparent one is a surface.
+- **Frameless.** No bezel, no housing, no visible mount. Held, not installed.
+- **Singular in view.** One plane per sightline. Comparison happens *within* the plane — divided by grid, not by adding a second screen. Repeated adjacent planes read as an array, and an array is a command center.
+- **Non-emissive.** Data sits *on* the surface, flat and bounded. The substrate is not a light source.
 
 **Pass/fail test:** If you can identify the technology before you identify the architecture, the
 shot has failed.
