@@ -91,7 +91,7 @@ surface has one.**
 | **Not viable** | `#E93526` | Terminal state. |
 | **Field** | `#D6F4EA` | Evidence register only — see below. |
 
-### The three rules that govern Palette B
+### The four rules that govern Palette B
 
 **1. Verification carries no colour.** The verified state is the default and does not announce itself.
 Only exceptions are marked. This is `beliefs.md`'s calm authority as a palette rule: if the system is
@@ -107,6 +107,10 @@ assigned meaning; colour there is compositional field, and `Field` mint is its v
 register**, everything means something and only state colours appear. Meaning is assigned by the act
 of reading — which is what verification is. A colour never does both jobs on the same surface.
 
+**4. The logotype is Ink or Paper.** On authored surfaces the wordmark is `#171717` on light grounds
+or `#F5F5F5` on dark — never gold. Gold fill on the mark belongs to the rendered world, where gold is
+a material rather than a value. See [`logo.md`](logo.md).
+
 ### Consequence for motion
 
 The transition from evidence to verdict is **field resolving into code**: unassigned colour locking
@@ -117,12 +121,9 @@ information rather than decorating one.
 
 ## Open items
 
-1. **Gold has no authored value.** [`logo.md`](logo.md) permits a flat gold hairline with the
-   wordmark. Palette B needs a specified gold, or the mark's accent line must be declared
-   rendered-only.
-2. **Dark-ground surface values are unspecified.** Off-white marks on matte black are named in
+1. **Dark-ground surface values are unspecified.** Off-white marks on matte black are named in
    `logo.md` but have no values. Any dark surface will need them.
-3. **Palette B has no verified-state colour by design.** If a surface is ever found that genuinely
+2. **Palette B has no verified-state colour by design.** If a surface is ever found that genuinely
    needs to assert verification affirmatively rather than by default, that is a decision record, not
    an improvisation.
 
