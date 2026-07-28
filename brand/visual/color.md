@@ -47,6 +47,8 @@ gap between an indicator and a glow is the gap between Rule #02 passing and fail
 The pass/fail test: if any color in the frame is gradient, glowing, washing, or bleeding into
 shadow, the asset has failed — regardless of which hue it is.
 
+Substrate transparency is not color transparency. The plane may be transparent. The data on it may not. Marks render flat, bounded and fully opaque against a transparent ground — the same way ink sits on glass, not the way light passes through it.
+
 ## The amber exception
 
 Warm amber (2700K) as a status indicator is the brand's signature emissive moment. It must read as a
