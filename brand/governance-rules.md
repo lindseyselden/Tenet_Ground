@@ -3,7 +3,7 @@ title: Governance Rules
 type: governance
 status: active
 updated: 2026-06-19
-source: original governance document (three operational rules + two principles)
+source: original governance document (four operational rules + two principles)
 ---
 
 # Governance Rules
@@ -80,11 +80,11 @@ perform. The one place idiosyncrasy is permitted is the logotype. The type syste
 
 ## Two principles that animate the rules
 
-Two principles sit beneath the three rules — load-bearing, but not standalone tests, so they live
+Two principles sit beneath the four rules — load-bearing, but not standalone tests, so they live
 canonically elsewhere and are only referenced here:
 
 - **The Numbers Have Nerves** — the emotional thesis (clinical precision married with living
-  attention; the cold/warm failure) the three rules exist to protect. Stated in
+  attention; the cold/warm failure) the four rules exist to protect. Stated in
   [`beliefs.md`](beliefs.md).
 - **The System Is Uniform; The Signature Is Individual** — the Ground Ring's locked-exterior,
   variable-interior logic, extensible to other personal tools. Stated in
@@ -96,9 +96,9 @@ canonically elsewhere and are only referenced here:
 
 - **Before generating:** confirm the prompt reflects each "always specify" directive and includes
   the "always avoid" terms in the negative list. `prompt-architect` does this by construction.
-- **After generating:** walk the output through all three pass/fail tests in order. If it fails, the
+- **After generating:** walk the output through all four pass/fail tests in order. If it fails, the
   failing rule names the scaffold token that needs reinforcement. `image-reviewer` does this.
-- **When designing a new asset type** (portrait, UI, motion, print): the three rules generate the
+- **When designing a new asset type** (portrait, UI, motion, print): the four rules generate the
   constraints for asset types the scaffold has no specific recipe for yet.
 - **When in conflict with aesthetic preference:** the rules win. Aesthetic preference unconnected to
   brand logic is the most common source of drift. (See `decisions/` for the case that established
